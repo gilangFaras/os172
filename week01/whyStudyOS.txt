@@ -1,1 +1,4 @@
 #gilangFaras
+
+Karena OS merupakan hal paling dasar, dan perlu dipelajari agar lebih memahami bagaimana kerja komputer
+Selain itu saya juga harus mengambil kelas ini karena OS adalah mata kuliah wajib :)
