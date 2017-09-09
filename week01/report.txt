@@ -1,0 +1,3 @@
+The tasks in week 01 revolves around git and scripting.
+Some of the tasks are make some directories, push/pull from repo, and several basic commands.
+There's also some simple scripting.
