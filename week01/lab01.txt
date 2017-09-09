@@ -20,3 +20,4 @@ drwxr-xr-x  2 gilang.faras StafCS 4096 Sep  9 10:08 week09
 drwxr-xr-x  2 gilang.faras StafCS 4096 Sep  9 10:08 week10
 drwxr-xr-x  2 gilang.faras StafCS 4096 Sep  9 10:09 xtra
 /home/fasilkom/mahasiswa/g/gilang.faras/os172/week01
+Today is 09 Sep 2017 at 11:03:42
